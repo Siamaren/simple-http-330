@@ -1,0 +1,16 @@
+{
+  "name": "simple-http-ice",
+  "version": "1.0.0",
+  "engines": {
+    "node": "7.3.0",
+    "npm": "3.10.10"
+  },
+  "description": "First node.js ICE",
+  "main": "node ./index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "test": "echo \"Tests Complete\""
+  },
+  "author": "Katherine Weaver",
+  "license": "UNLICENSED"
+}
